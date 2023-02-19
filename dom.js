@@ -10,5 +10,14 @@
     loo[index].style.fontWeight='bold'
 
     //new changes
+
+    let cl=document.getElementsByTagName("li")
+    cl[4].style.color="red"
+
+    for (let index = 0; index < cl.length; index++) {
+        cl[index].style.backgroundColor='blue'
+        cl[index].style.fontWeight='bold'
+    }
+    
     
    }

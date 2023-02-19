@@ -9,6 +9,6 @@
     loo[index].style.backgroundColor='yellow'
     loo[index].style.fontWeight='bold'
 
-    
+    //new changes
     
    }
